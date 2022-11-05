@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Barlow.ttf",
+      "sha1": "c13c608d505b88f39559e406d35753fb8e68635e"
+    },
+    {
+      "path": "assets/fonts/IBM Plex Sans.ttf",
+      "sha1": "2135f57edc33b24be603b2160012cdd2f8916b78"
+    }
+  ]
+}

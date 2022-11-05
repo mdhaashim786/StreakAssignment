@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "streakassign",
+    "slug": "streakassign",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "streakassign"
+}
